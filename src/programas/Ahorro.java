@@ -11,5 +11,6 @@ package programas;
 public class Ahorro {
     public static void main (String[] args){
     System.out.println("Ahorro mensual");
+    System.out.println("Ahorro semestral");
     }
 }
